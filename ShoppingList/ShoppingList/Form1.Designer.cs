@@ -28,12 +28,32 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.sideBar1 = new ShoppingList.SideBar();
+            this.SuspendLayout();
+            // 
+            // sideBar1
+            // 
+            this.sideBar1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.sideBar1.Location = new System.Drawing.Point(0, 0);
+            this.sideBar1.Name = "sideBar1";
+            this.sideBar1.Size = new System.Drawing.Size(106, 497);
+            this.sideBar1.TabIndex = 0;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(821, 492);
+            this.Controls.Add(this.sideBar1);
+            this.Name = "Form1";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private SideBar sideBar1;
     }
 }
 

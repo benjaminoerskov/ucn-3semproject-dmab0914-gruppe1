@@ -29,14 +29,26 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnLists = new System.Windows.Forms.Button();
+            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
+            this.panel1.Controls.Add(this.btnLists);
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(147, 507);
+            this.panel1.Size = new System.Drawing.Size(111, 507);
             this.panel1.TabIndex = 0;
+            // 
+            // btnLists
+            // 
+            this.btnLists.Location = new System.Drawing.Point(19, 56);
+            this.btnLists.Name = "btnLists";
+            this.btnLists.Size = new System.Drawing.Size(66, 23);
+            this.btnLists.TabIndex = 0;
+            this.btnLists.Text = "My lists";
+            this.btnLists.UseVisualStyleBackColor = true;
             // 
             // SideBar
             // 
@@ -44,7 +56,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.panel1);
             this.Name = "SideBar";
-            this.Size = new System.Drawing.Size(150, 507);
+            this.Size = new System.Drawing.Size(111, 507);
+            this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -52,5 +65,6 @@
         #endregion
 
         private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Button btnLists;
     }
 }

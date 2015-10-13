@@ -1,1 +1,10 @@
 C:\Users\Lasse\Documents\GitHub\ucn-3semproject-dmab0914-gruppe1\ShoppingList\ShoppingList\bin\Debug\ShoppingList.exe.config
+C:\Users\Lasse\Documents\GitHub\ucn-3semproject-dmab0914-gruppe1\ShoppingList\ShoppingList\bin\Debug\ShoppingList.exe
+C:\Users\Lasse\Documents\GitHub\ucn-3semproject-dmab0914-gruppe1\ShoppingList\ShoppingList\bin\Debug\ShoppingList.pdb
+C:\Users\Lasse\Documents\GitHub\ucn-3semproject-dmab0914-gruppe1\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csprojResolveAssemblyReference.cache
+C:\Users\Lasse\Documents\GitHub\ucn-3semproject-dmab0914-gruppe1\ShoppingList\ShoppingList\obj\Debug\ShoppingList.Form1.resources
+C:\Users\Lasse\Documents\GitHub\ucn-3semproject-dmab0914-gruppe1\ShoppingList\ShoppingList\obj\Debug\ShoppingList.Properties.Resources.resources
+C:\Users\Lasse\Documents\GitHub\ucn-3semproject-dmab0914-gruppe1\ShoppingList\ShoppingList\obj\Debug\ShoppingList.SideBar.resources
+C:\Users\Lasse\Documents\GitHub\ucn-3semproject-dmab0914-gruppe1\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csproj.GenerateResource.Cache
+C:\Users\Lasse\Documents\GitHub\ucn-3semproject-dmab0914-gruppe1\ShoppingList\ShoppingList\obj\Debug\ShoppingList.exe
+C:\Users\Lasse\Documents\GitHub\ucn-3semproject-dmab0914-gruppe1\ShoppingList\ShoppingList\obj\Debug\ShoppingList.pdb
