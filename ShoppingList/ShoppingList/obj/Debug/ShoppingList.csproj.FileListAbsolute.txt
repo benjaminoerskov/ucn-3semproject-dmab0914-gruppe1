@@ -6,3 +6,6 @@ C:\Users\Lasse\Documents\GitHub\ucn-3semproject-dmab0914-gruppe1\ShoppingList\Sh
 C:\Users\Lasse\Documents\GitHub\ucn-3semproject-dmab0914-gruppe1\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csproj.GenerateResource.Cache
 C:\Users\Lasse\Documents\GitHub\ucn-3semproject-dmab0914-gruppe1\ShoppingList\ShoppingList\obj\Debug\ShoppingList.exe
 C:\Users\Lasse\Documents\GitHub\ucn-3semproject-dmab0914-gruppe1\ShoppingList\ShoppingList\obj\Debug\ShoppingList.pdb
+C:\Users\Lasse\Documents\GitHub\ucn-3semproject-dmab0914-gruppe1\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csprojResolveAssemblyReference.cache
+C:\Users\Lasse\Documents\GitHub\ucn-3semproject-dmab0914-gruppe1\ShoppingList\ShoppingList\bin\Debug\OVT.CustomControls.dll
+C:\Users\Lasse\Documents\GitHub\ucn-3semproject-dmab0914-gruppe1\ShoppingList\ShoppingList\bin\Debug\OVT.CustomControls.pdb
